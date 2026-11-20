@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bishal Roshni Kirana Pasal ERP",
+  "description": "Multi-store grocery, supermarket, wholesale, and online order ERP with Bikram Sambat calendar, FIFO batch inventory, credit accounting, and Nepali/English bilingual interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
